@@ -2,17 +2,17 @@
 A simple 2-D representation of the Pacman game.
 
 ## Getting Started
-This project is developed using Java and you need a machine with java installed in it.
-Download the zip file and unzip the folder. 
-Open your IDE(prefereably Eclipse) and then open the project directory.
-In the src folder, you can find the Main.java file.
-Click on it and select run as Java application.
+This project is developed using Java and you need a machine with java installed in it.<br/>
+Download the zip file and unzip the folder. <br/>
+Open your IDE(prefereably Eclipse) and then open the project directory.<br/>
+In the src folder, you can find the Main.java file.<br/>
+Click on it and select run as Java application.<br/>
 The pacman game starts.
 
 ## Controls to move the Pacman object
 
-Use arrow keys(up,down,left,right) to move the pacman object.
-For rotating the pacman use 'R' key.
+Use arrow keys(up,down,left,right) to move the pacman object.<br/>
+For rotating the pacman use 'R' key.<br/>
 
 ## Acknowledgments
 
